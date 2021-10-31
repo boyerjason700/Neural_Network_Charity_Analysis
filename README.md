@@ -1,9 +1,14 @@
+<p align="center">
+<img width="500" height="300" src="https://user-images.githubusercontent.com/74840026/139604405-812ed497-0033-4804-8c24-59480cf1b566.png">                                                                  
+</p>
+
+
 # Neural_Network_Charity_Analysis
 
 # Overview
-Alphabet Soup, a nonprofit philanthropic foundation dedicated to helping organizations that protect the environment, improve peoples well-being, and unify the world.  Alphabet Soup has raised and donated over 10 billion dollars in the past 20 years.  This money has been used to invest in lifesaving technologies and organize reforestation groups around the world.  
+Alphabet Soup, a nonprofit philanthropic foundation dedicated to helping organizations that protect the environment, improve people's well-being, and unify the world.  Alphabet Soup has raised and donated over 10 billion dollars in the past 20 years.  This money has been used to invest in lifesaving technologies and organize reforestation groups around the world.  
 <br>
-Our job is to analyze the impact of each donation and vet potential recipients.  This helps ensure that the foundation's money is being used effectively.  Unfortunatly, not every donation the company makes is impactful.  In some cases an organization will take the monay and disappear.  We have been asked to predict which organizations are worth donating to and which are too high risk. 
+Our job is to analyze the impact of each donation and vet potential recipients.  This helps ensure that the foundation's money is being used effectively.  Unfortunately, not every donation the company makes is impactful.  In some cases, an organization will take the money and disappear.  We have been asked to predict which organizations are worth donating to and which are too high risk. 
 <br>
 
 Using Machine Learning and Neural Networks, create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
@@ -16,10 +21,10 @@ Using Machine Learning and Neural Networks, create a binary classifier that is c
     
 - **What variable(s) are considered to be the features for your model?**
     - APPLICATION_TYPE -Alphabet Soup application type
-    - AFFILIATION -Affiliated scetor of industry
+    - AFFILIATION -Affiliated sector of industry
     - CLASSIFICATION -Government organization classification
     - USE_CASE -Use case for funding
-    - ORGANIZATION -Organitiation type
+    - ORGANIZATION -Organization type
     - STATUS—Active status
     - INCOME_AMT—Income classification
     - SPECIAL_CONSIDERATIONS—Special consideration for application
@@ -38,7 +43,7 @@ Using Machine Learning and Neural Networks, create a binary classifier that is c
     - Attempt # 3
         - Changed activation functions to linear, relu, and tanh
     - Attempt # 4
-        - Increased neurons from 8:5 to 10:8 and cnahged activation functions from relu:relu to relu:tanh
+        - Increased neurons from 8:5 to 10:8 and changed activation functions from relu:relu to relu:tanh
     
 - Were you able to achieve the target model performance?
 
