@@ -78,3 +78,8 @@ Using Machine Learning and Neural Networks, create a binary classifier that is c
         - Changed number of neurons and activation functions from original model
 
 # Summary
+Only one attempt improved the accuracy of the model but did not reach the 75% target.  Further exploration and trials would need to be done to find the optimal parameters for a model that achieved an accuracy of 75% or greater.
+
+# 
+#### Contact
+E-mail: boyerjason700@gmail.com
